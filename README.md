@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=00D4FF&center=true&vCenter=true&width=860&lines=🌌+NovOS+Professional+Edition+v1.3.0-PRO;A+Cinematic+Browser-Based+OS;Glassmorphism%2C+POSIX+VFS%2C+Nova+AI;Built+with+React+%2B+Vite+%2B+IndexedDB;The+Future+of+Web+Computing)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=00D4FF&center=true&vCenter=true&width=860&lines=🌌+NovOS+Professional+Edition+v1.3.0-PRO;A+Cinematic+Browser-Based+OS;Glassmorphism%2C+POSIX+VFS%2C+Nova+AI;Built+with+React+%2B+Vite+%2B+IndexedDB;The+Future+of+Web+Computing)
 
 </div>
 
