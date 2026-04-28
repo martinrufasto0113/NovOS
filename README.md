@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050509,30:0a0a1a,65:0d0d2b,100:00d4ff&height=220&section=header&text=🌌%20NovOS&fontSize=78&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=A%20Cinematic%2C%20Kernel-Driven%20Computing%20Environment%20for%20the%20Modern%20Web&descAlignY=65&descColor=7dd3fc&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050509,30:0a0a1a,65:0d0d2b,100:00d4ff&height=220&section=header&text=🌌%20NovOS&fontSize=78&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Professional%20Edition%20v1.3.0&descSize=18&descAlignY=60" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=00D4FF&center=true&vCenter=true&width=860&lines=🌌+NovOS+Professional+Edition+v1.3.0-PRO;POSIX+VFS+backed+by+IndexedDB+—+True+persistence;Advanced+Session+Lifecycle+%7C+Lock+Screen+%7C+Multi-User;Mission+Control+%7C+Nova+AI+%7C+Aether+Design+System;Ctrl+%2B+Space+→+Spotlight.+Ctrl+%2B+L+→+Lock+System.;The+boundary+between+web+and+OS+vanishes+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=00D4FF&center=true&vCenter=true&width=860&lines=🌌+NovOS+Professional+Edition+v1.3.0-PRO;A+Cinematic+Browser-Based+OS;Glassmorphism%2C+POSIX+VFS%2C+Nova+AI;Built+with+React+%2B+Vite+%2B+IndexedDB;The+Future+of+Web+Computing)]
 
 </div>
 
@@ -29,21 +29,35 @@
 
 ---
 
+## 📸 Preview Images
+
+<div align="center">
+
+### 🎨 Main Interface
+<img src="https://github.com/Tcode-Motion/NovOS/raw/main/NovOS.png" alt="NovOS Main Interface" width="800" />
+
+### 🖥️ Live Desktop View
+<img src="https://github.com/Tcode-Motion/NovOS/raw/main/NovOS-dextop-viwe.png" alt="NovOS Desktop View" width="800" />
+
+</div>
+
+---
+
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   Every shadow. Every translucent layer. Every kernel event.             ║
-║   Designed to make the boundary between web and OS vanish.               ║
-║   — Tcode-Motion  🌌                                                     ║
-║                                                                          ║
-║   "The screen is not a wall — it is a window into a deeper reality."     ║
-║   "Code is the ink; the processor is the paper; the OS is the story."    ║
-║   "Stability is not the absence of change, but the presence of flow."    ║
-║   "The future of computing is the synthesis of art and logic."           ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   Every shadow. Every translucent layer. Every kernel event.              ║
+║   Designed to make the boundary between web and OS vanish.                ║
+║   — Tcode-Motion  🌌                                                      ║
+║                                                                            ║
+║   "The screen is not a wall — it is a window into a deeper reality."      ║
+║   "Code is the ink; the processor is the paper; the OS is the story."     ║
+║   "Stability is not the absence of change, but the presence of flow."     ║
+║   "The future of computing is the synthesis of art and logic."            ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -90,7 +104,7 @@
 
 ## 🌌 The Vision
 
-**NovOS** is a cinematic, browser-based operating environment that redefines the relationship between the web and desktop computing. It is not merely a "skin" for a website — it is a fully integrated ecosystem featuring a POSIX-compliant virtual filesystem, a real-time event-driven micro-kernel, and a multi-user security model.
+**NovOS** is a cinematic, browser-based operating environment that redefines the relationship between the web and desktop computing. It is not merely a "skin" for a website — it is a fully integrated micro-kernel OS, complete with a POSIX-compliant virtual file system, security model, process lifecycle management, and a sophisticated event bus.
 
 Our mission is to provide a distraction-free, high-fidelity workspace where developers and creators can manage their digital lives without ever leaving the browser tab.
 
@@ -182,7 +196,7 @@ Activated with `Ctrl + Space` — the fastest navigation tool in NovOS.
 
 ### Mission Control & Workspaces
 
-`Ctrl + Tab` activates a bird's-eye view of all open windows using a specialized non-overlapping layout algorithm. NovOS supports up to **10 virtual workspaces** — move windows between them via the Mission Control overlay or the taskbar switcher.
+`Ctrl + Tab` activates a bird's-eye view of all open windows using a specialized non-overlapping layout algorithm. NovOS supports up to **10 virtual workspaces** — move windows between them via the overlay or with keyboard shortcuts.
 
 ### Cinematic Window Management
 
@@ -943,7 +957,7 @@ NovOS is open-source software released under the **MIT License**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0d0d2b,80:0a0a1a,100:050509&height=140&section=footer&text=🌌%20NovOS%20—%20The%20Web%20OS&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0d0d2b,80:0a0a1a,100:050509&height=140&section=footer&text=🌌%20NovOS%20—%20The%20Web%20OS&fontSize=22&fontColor=white&animation=fadeIn" />
 
 *"The screen is not a wall — it is a window into a deeper reality."*  
 **NovOS v1.3.0-PRO "Aether" · Released April 2026 · Built with 🌌 by Tcode-Motion**
