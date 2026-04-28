@@ -36,11 +36,7 @@
 ### 🎨 Main Interface
 <img src="https://github.com/Tcode-Motion/NovOS/blob/master/NovOS.png" alt="NovOS Main Interface" width="800" />
 
-### 🖥️ Live Desktop View
-<img src="https://github.com/Tcode-Motion/NovOS/blob/master/NovOS_dextop_viwe.png" alt="NovOS Desktop View" width="800" />
-
 </div>
-
 ---
 
 <div align="center">
@@ -217,6 +213,16 @@ NovOS ships with a curated set of high-fidelity applications and a **Nexus App S
 > - 🔵 **Available** — Can be installed via Nexus Store.
 > - 🟡 **Coming Soon** — Planned for a future kernel update.
 
+---
+
+## 📸 Preview Images
+
+<div align="center">
+
+### 🖥️ Live Desktop View
+<img src="https://github.com/Tcode-Motion/NovOS/blob/master/NovOS_dextop_viwe.png" alt="NovOS Desktop View" width="800" />
+
+</div>
 ---
 
 ## 📋 Full Application Registry (v1.3.0)
