@@ -34,10 +34,10 @@
 <div align="center">
 
 ### 🎨 Main Interface
-<img src="https://github.com/Tcode-Motion/NovOS/raw/main/NovOS.png" alt="NovOS Main Interface" width="800" />
+<img src="https://github.com/Tcode-Motion/NovOS/raw/main/files/NovOS.png" alt="NovOS Main Interface" width="800" />
 
 ### 🖥️ Live Desktop View
-<img src="https://github.com/Tcode-Motion/NovOS/raw/main/NovOS-dextop-viwe.png" alt="NovOS Desktop View" width="800" />
+<img src="https://github.com/Tcode-Motion/NovOS/raw/main/files/NovOS_dextop_viwe.png" alt="NovOS Desktop View" width="800" />
 
 </div>
 
